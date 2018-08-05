@@ -238,7 +238,7 @@ handleEditAll() {
               // sayHelloProps = {() => this.sayHello('abou')}
               
             /> */}
-            <h2> Task Manager </h2><br /><br />
+            <h2> Task Manager - React Based </h2><br /><br />
             <input onChange = {(event) => this.handleNewTask(event)}
               onKeyDown={(event) => this.handleKeyDown(event)}
               value = {this.state.newItem}
