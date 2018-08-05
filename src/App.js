@@ -233,11 +233,11 @@ handleEditAll() {
     return (
       <div className="row">
           <div className="col-sm"> 
-            <Name 
+            {/* <Name 
               // nameProps = "Abou"
               // sayHelloProps = {() => this.sayHello('abou')}
               
-            />
+            /> */}
             <h2> Task Manager </h2><br /><br />
             <input onChange = {(event) => this.handleNewTask(event)}
               onKeyDown={(event) => this.handleKeyDown(event)}
