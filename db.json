@@ -1,11 +1,6 @@
 {
   "tasks": [
     {
-      "title": "learn db integration",
-      "completed": true,
-      "id": 3
-    },
-    {
       "title": "learn react",
       "completed": true,
       "id": 4
@@ -24,11 +19,6 @@
       "title": "learn orange",
       "completed": true,
       "id": 7
-    },
-    {
-      "title": "bin this",
-      "completed": false,
-      "id": 8
     }
   ]
 }
