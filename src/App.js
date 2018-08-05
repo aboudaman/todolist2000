@@ -234,8 +234,8 @@ handleEditAll() {
       <div className="row">
           <div className="col-sm"> 
             <Name 
-              nameProps = "Abou"
-              sayHelloProps = {() => this.sayHello('abou')}
+              // nameProps = "Abou"
+              // sayHelloProps = {() => this.sayHello('abou')}
               
             />
             <h2> Task Manager </h2><br /><br />
