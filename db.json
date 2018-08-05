@@ -24,6 +24,11 @@
       "title": "learn orange",
       "completed": true,
       "id": 7
+    },
+    {
+      "title": "bin this",
+      "completed": false,
+      "id": 8
     }
   ]
 }
