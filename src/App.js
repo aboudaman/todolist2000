@@ -206,13 +206,13 @@ handleEditAll() {
   }
 
 
-  sayHello(name) {
-    alert('Hello!!! ' + name);
-    const newStatus = "Completed"
-    this.setState({
-      status: newStatus
-    })
-  }
+  // sayHello(name) {
+  //   alert('Hello!!! ' + name);
+  //   const newStatus = "Completed"
+  //   this.setState({
+  //     status: newStatus
+  //   })
+  // }
   render() {
     // const {tasks} = this.state
 
